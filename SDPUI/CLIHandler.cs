@@ -4,10 +4,7 @@ using System.Text;
 namespace SDPUI
 {
     /**
-     * CLI Handler Class Handles Command Line Input
-     * var _ps = new PowerShellHandler();
-       string output = _ps.Command("wsl rsync -ruv rasberry@192.168.0.169:./Data/ /mnt/c/RsyncTest");
-
+     * CLI Handler Class Handles Command Line Input and Output
      */
     internal class CLIHandler
     {
